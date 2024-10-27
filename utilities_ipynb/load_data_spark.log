@@ -1,0 +1,308 @@
+2024-10-27 12:00:44,813 - load_data_spark_logger - INFO - Data from cagliostro_gutenberg imported successfully!
+2024-10-27 12:00:45,185 - load_data_spark_logger - INFO - There are 1775 rows and 8 columns.
+2024-10-27 12:00:50,835 - load_data_spark_logger - INFO - Schema of the loaded dataset:
+2024-10-27 12:00:50,851 - load_data_spark_logger - INFO - +----+---------------+-----------------------------+------------+
+|    | Column Name   | Data Type                   |   n_unique |
+|----+---------------+-----------------------------+------------|
+|  0 | id            | ('id', 'int')               |       1775 |
+|  1 | chapter_title | ('chapter_title', 'string') |          1 |
+|  2 | paragraph     | ('paragraph', 'string')     |        908 |
+|  3 | quote         | ('quote', 'string')         |          1 |
+|  4 | source_url    | ('source_url', 'string')    |          1 |
+|  5 | created_at    | ('created_at', 'timestamp') |          1 |
+|  6 | title         | ('title', 'string')         |          1 |
+|  7 | content       | ('content', 'string')       |          1 |
++----+---------------+-----------------------------+------------+
+2024-10-27 12:07:06,223 - load_data_spark_logger - INFO - Data from cagliostro_gutenberg imported successfully!
+2024-10-27 12:07:06,645 - load_data_spark_logger - INFO - There are 1775 rows and 8 columns.
+2024-10-27 12:07:12,447 - load_data_spark_logger - INFO - Schema of the loaded dataset:
+2024-10-27 12:07:12,462 - load_data_spark_logger - INFO - +----+---------------+-----------------------------+------------+
+|    | Column Name   | Data Type                   |   n_unique |
+|----+---------------+-----------------------------+------------|
+|  0 | id            | ('id', 'int')               |       1775 |
+|  1 | chapter_title | ('chapter_title', 'string') |          1 |
+|  2 | paragraph     | ('paragraph', 'string')     |        908 |
+|  3 | quote         | ('quote', 'string')         |          1 |
+|  4 | source_url    | ('source_url', 'string')    |          1 |
+|  5 | created_at    | ('created_at', 'timestamp') |          1 |
+|  6 | title         | ('title', 'string')         |          1 |
+|  7 | content       | ('content', 'string')       |          1 |
++----+---------------+-----------------------------+------------+
+2024-10-27 12:07:37,516 - load_data_spark_logger - INFO - Data from cagliostro_gutenberg imported successfully!
+2024-10-27 12:07:37,976 - load_data_spark_logger - INFO - There are 1775 rows and 8 columns.
+2024-10-27 12:07:43,551 - load_data_spark_logger - INFO - Schema of the loaded dataset:
+2024-10-27 12:07:43,564 - load_data_spark_logger - ERROR - Error loading data: 'module' object is not callable
+2024-10-27 12:07:53,166 - load_data_spark_logger - INFO - Data from cagliostro_gutenberg imported successfully!
+2024-10-27 12:07:53,701 - load_data_spark_logger - INFO - There are 1775 rows and 8 columns.
+2024-10-27 12:07:58,734 - load_data_spark_logger - INFO - Schema of the loaded dataset:
+2024-10-27 12:07:58,741 - load_data_spark_logger - ERROR - Error loading data: 'module' object is not callable
+2024-10-27 12:08:15,521 - load_data_spark_logger - INFO - Data from cagliostro_gutenberg imported successfully!
+2024-10-27 12:08:15,923 - load_data_spark_logger - INFO - There are 1775 rows and 8 columns.
+2024-10-27 12:08:19,937 - load_data_spark_logger - INFO - Schema of the loaded dataset:
+2024-10-27 12:08:19,949 - load_data_spark_logger - INFO - +----+---------------+-----------------------------+------------+
+|    | Column Name   | Data Type                   |   n_unique |
+|----+---------------+-----------------------------+------------|
+|  0 | id            | ('id', 'int')               |       1775 |
+|  1 | chapter_title | ('chapter_title', 'string') |          1 |
+|  2 | paragraph     | ('paragraph', 'string')     |        908 |
+|  3 | quote         | ('quote', 'string')         |          1 |
+|  4 | source_url    | ('source_url', 'string')    |          1 |
+|  5 | created_at    | ('created_at', 'timestamp') |          1 |
+|  6 | title         | ('title', 'string')         |          1 |
+|  7 | content       | ('content', 'string')       |          1 |
++----+---------------+-----------------------------+------------+
+2024-10-27 12:09:18,074 - load_data_spark_logger - INFO - Data from cagliostro_gutenberg imported successfully!
+2024-10-27 12:09:18,378 - load_data_spark_logger - INFO - There are 1775 rows and 8 columns.
+2024-10-27 12:09:22,181 - load_data_spark_logger - INFO - Schema of the loaded dataset:
+2024-10-27 12:09:22,191 - load_data_spark_logger - INFO - +----+---------------+-----------------------------+------------+
+|    | Column Name   | Data Type                   |   n_unique |
+|----+---------------+-----------------------------+------------|
+|  0 | id            | ('id', 'int')               |       1775 |
+|  1 | chapter_title | ('chapter_title', 'string') |          1 |
+|  2 | paragraph     | ('paragraph', 'string')     |        908 |
+|  3 | quote         | ('quote', 'string')         |          1 |
+|  4 | source_url    | ('source_url', 'string')    |          1 |
+|  5 | created_at    | ('created_at', 'timestamp') |          1 |
+|  6 | title         | ('title', 'string')         |          1 |
+|  7 | content       | ('content', 'string')       |          1 |
++----+---------------+-----------------------------+------------+
+2024-10-27 12:13:05,117 - load_data_spark_logger - INFO - Data from cagliostro_gutenberg imported successfully!
+2024-10-27 12:13:05,432 - load_data_spark_logger - INFO - There are 1775 rows and 8 columns.
+2024-10-27 12:13:09,945 - load_data_spark_logger - INFO - Schema of the loaded dataset:
+2024-10-27 12:13:09,975 - load_data_spark_logger - INFO - +----+---------------+-----------------------------+------------+
+|    | Column Name   | Data Type                   |   n_unique |
+|----+---------------+-----------------------------+------------|
+|  0 | id            | ('id', 'int')               |       1775 |
+|  1 | chapter_title | ('chapter_title', 'string') |          1 |
+|  2 | paragraph     | ('paragraph', 'string')     |        908 |
+|  3 | quote         | ('quote', 'string')         |          1 |
+|  4 | source_url    | ('source_url', 'string')    |          1 |
+|  5 | created_at    | ('created_at', 'timestamp') |          1 |
+|  6 | title         | ('title', 'string')         |          1 |
+|  7 | content       | ('content', 'string')       |          1 |
++----+---------------+-----------------------------+------------+
+2024-10-27 12:13:10,140 - load_data_spark_logger - INFO - Data successfully exported to ../csv/cagliostro_gutenberg.csv.
+2024-10-27 20:38:28,073 - load_data_spark_logger - ERROR - Error loading data: An error occurred while calling o27.jdbc.
+: java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+	at org.apache.spark.sql.execution.datasources.jdbc.DriverRegistry$.register(DriverRegistry.scala:46)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1$adapted(JDBCOptions.scala:103)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:41)
+	at org.apache.spark.sql.execution.datasources.jdbc.JdbcRelationProvider.createRelation(JdbcRelationProvider.scala:34)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:346)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:229)
+	at org.apache.spark.sql.DataFrameReader.$anonfun$load$2(DataFrameReader.scala:211)
+	at scala.Option.getOrElse(Option.scala:189)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:211)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:172)
+	at org.apache.spark.sql.DataFrameReader.jdbc(DataFrameReader.scala:249)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2024-10-27 20:38:51,923 - load_data_spark_logger - ERROR - Error loading data: An error occurred while calling o34.jdbc.
+: java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+	at org.apache.spark.sql.execution.datasources.jdbc.DriverRegistry$.register(DriverRegistry.scala:46)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1$adapted(JDBCOptions.scala:103)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:41)
+	at org.apache.spark.sql.execution.datasources.jdbc.JdbcRelationProvider.createRelation(JdbcRelationProvider.scala:34)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:346)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:229)
+	at org.apache.spark.sql.DataFrameReader.$anonfun$load$2(DataFrameReader.scala:211)
+	at scala.Option.getOrElse(Option.scala:189)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:211)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:172)
+	at org.apache.spark.sql.DataFrameReader.jdbc(DataFrameReader.scala:249)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2024-10-27 20:39:55,489 - load_data_spark_logger - ERROR - Error loading data: An error occurred while calling o41.jdbc.
+: java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+	at org.apache.spark.sql.execution.datasources.jdbc.DriverRegistry$.register(DriverRegistry.scala:46)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1$adapted(JDBCOptions.scala:103)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:41)
+	at org.apache.spark.sql.execution.datasources.jdbc.JdbcRelationProvider.createRelation(JdbcRelationProvider.scala:34)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:346)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:229)
+	at org.apache.spark.sql.DataFrameReader.$anonfun$load$2(DataFrameReader.scala:211)
+	at scala.Option.getOrElse(Option.scala:189)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:211)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:172)
+	at org.apache.spark.sql.DataFrameReader.jdbc(DataFrameReader.scala:249)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2024-10-27 20:40:31,575 - load_data_spark_logger - ERROR - Error loading data: An error occurred while calling o48.jdbc.
+: java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+	at org.apache.spark.sql.execution.datasources.jdbc.DriverRegistry$.register(DriverRegistry.scala:46)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1$adapted(JDBCOptions.scala:103)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:41)
+	at org.apache.spark.sql.execution.datasources.jdbc.JdbcRelationProvider.createRelation(JdbcRelationProvider.scala:34)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:346)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:229)
+	at org.apache.spark.sql.DataFrameReader.$anonfun$load$2(DataFrameReader.scala:211)
+	at scala.Option.getOrElse(Option.scala:189)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:211)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:172)
+	at org.apache.spark.sql.DataFrameReader.jdbc(DataFrameReader.scala:249)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2024-10-27 20:40:42,533 - load_data_spark_logger - ERROR - Error loading data: An error occurred while calling o55.jdbc.
+: java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+	at org.apache.spark.sql.execution.datasources.jdbc.DriverRegistry$.register(DriverRegistry.scala:46)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1$adapted(JDBCOptions.scala:103)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:41)
+	at org.apache.spark.sql.execution.datasources.jdbc.JdbcRelationProvider.createRelation(JdbcRelationProvider.scala:34)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:346)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:229)
+	at org.apache.spark.sql.DataFrameReader.$anonfun$load$2(DataFrameReader.scala:211)
+	at scala.Option.getOrElse(Option.scala:189)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:211)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:172)
+	at org.apache.spark.sql.DataFrameReader.jdbc(DataFrameReader.scala:249)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2024-10-27 20:40:59,216 - load_data_spark_logger - ERROR - Error loading data: An error occurred while calling o62.jdbc.
+: java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+	at org.apache.spark.sql.execution.datasources.jdbc.DriverRegistry$.register(DriverRegistry.scala:46)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1$adapted(JDBCOptions.scala:103)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:41)
+	at org.apache.spark.sql.execution.datasources.jdbc.JdbcRelationProvider.createRelation(JdbcRelationProvider.scala:34)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:346)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:229)
+	at org.apache.spark.sql.DataFrameReader.$anonfun$load$2(DataFrameReader.scala:211)
+	at scala.Option.getOrElse(Option.scala:189)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:211)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:172)
+	at org.apache.spark.sql.DataFrameReader.jdbc(DataFrameReader.scala:249)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2024-10-27 20:42:37,672 - load_data_spark_logger - ERROR - Error loading data: An error occurred while calling o69.jdbc.
+: java.lang.ClassNotFoundException: org.postgresql.Driver
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+	at org.apache.spark.sql.execution.datasources.jdbc.DriverRegistry$.register(DriverRegistry.scala:46)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.$anonfun$driverClass$1$adapted(JDBCOptions.scala:103)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:103)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCOptions.<init>(JDBCOptions.scala:41)
+	at org.apache.spark.sql.execution.datasources.jdbc.JdbcRelationProvider.createRelation(JdbcRelationProvider.scala:34)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:346)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:229)
+	at org.apache.spark.sql.DataFrameReader.$anonfun$load$2(DataFrameReader.scala:211)
+	at scala.Option.getOrElse(Option.scala:189)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:211)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:172)
+	at org.apache.spark.sql.DataFrameReader.jdbc(DataFrameReader.scala:249)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+

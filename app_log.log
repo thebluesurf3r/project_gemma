@@ -1,0 +1,117 @@
+2024-10-26 17:41:52,318 - INFO - Logging initialized and set up successfully.
+2024-10-26 17:42:52,377 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 17:43:52,454 - INFO - Successfully exported log data to log_data_2.csv.
+2024-10-26 17:44:52,525 - INFO - Successfully exported log data to log_data_3.csv.
+2024-10-26 17:45:52,598 - INFO - Successfully exported log data to log_data_4.csv.
+2024-10-26 17:46:09,908 - INFO - 
+2024-10-26 17:46:52,653 - INFO - Successfully exported log data to log_data_5.csv.
+2024-10-26 17:47:02,641 - INFO - 
+2024-10-26 17:47:11,701 - INFO - 
+2024-10-26 17:47:52,681 - INFO - Successfully exported log data to log_data_6.csv.
+2024-10-26 17:48:52,750 - INFO - Successfully exported log data to log_data_7.csv.
+2024-10-26 17:49:52,819 - INFO - Successfully exported log data to log_data_8.csv.
+2024-10-26 17:50:26,189 - INFO - Logging initialized and set up successfully.
+2024-10-26 17:50:31,576 - INFO - 
+2024-10-26 17:50:52,859 - INFO - Successfully exported log data to log_data_9.csv.
+2024-10-26 17:51:26,266 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 17:52:26,321 - INFO - Successfully exported log data to log_data_2.csv.
+2024-10-26 17:53:26,392 - INFO - Successfully exported log data to log_data_3.csv.
+2024-10-26 17:55:11,577 - INFO - Logging initialized and set up successfully.
+2024-10-26 17:56:11,647 - INFO - Successfully exported log data to log_data_4.csv.
+2024-10-26 17:57:11,722 - INFO - Successfully exported log data to log_data_5.csv.
+2024-10-26 18:10:06,863 - INFO - Logging initialized and set up successfully.
+2024-10-26 18:10:20,310 - INFO - pandas_df_003.csv imported successfully!
+2024-10-26 18:10:20,314 - INFO - There are 1 rows and 3 columns.
+2024-10-26 18:10:20,323 - INFO - Schema of the loaded dataset:
+2024-10-26 18:10:20,330 - INFO - +----+---------------+-------------+
+|    | Column Name   | Data Type   |
+|----+---------------+-------------|
+|  0 | id            | int64       |
+|  1 | chapter_title | object      |
+|  2 | quote         | object      |
++----+---------------+-------------+
+2024-10-26 18:10:20,339 - INFO - Unique values for column 'id': 1
+2024-10-26 18:10:20,342 - INFO - Unique values for column 'chapter_title': 1
+2024-10-26 18:10:20,345 - INFO - Unique values for column 'quote': 1
+2024-10-26 18:10:42,298 - ERROR - DataFrame is missing one or more required columns.
+2024-10-26 18:11:06,971 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 18:11:07,445 - ERROR - DataFrame is missing one or more required columns.
+2024-10-26 18:11:13,353 - ERROR - DataFrame is missing one or more required columns.
+2024-10-26 18:12:07,014 - INFO - Successfully exported log data to log_data_2.csv.
+2024-10-26 18:13:07,084 - INFO - Successfully exported log data to log_data_3.csv.
+2024-10-26 18:14:07,157 - INFO - Successfully exported log data to log_data_4.csv.
+2024-10-26 18:15:07,199 - INFO - Successfully exported log data to log_data_6.csv.
+2024-10-26 18:16:07,272 - INFO - Successfully exported log data to log_data_7.csv.
+2024-10-26 18:17:07,299 - INFO - Successfully exported log data to log_data_8.csv.
+2024-10-26 18:17:23,055 - INFO - Logging initialized and set up successfully.
+2024-10-26 18:17:34,619 - INFO - Logging initialized and set up successfully.
+2024-10-26 18:18:07,368 - INFO - Successfully exported log data to log_data_9.csv.
+2024-10-26 18:18:13,287 - INFO - Loading credentials
+2024-10-26 18:18:25,155 - INFO - Credentials loaded
+2024-10-26 18:18:34,702 - INFO - Successfully exported log data to log_data_10.csv.
+2024-10-26 18:19:07,437 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 18:19:34,775 - INFO - Successfully exported log data to log_data_2.csv.
+2024-10-26 18:20:07,470 - INFO - Successfully exported log data to log_data_3.csv.
+2024-10-26 18:20:34,845 - INFO - Successfully exported log data to log_data_4.csv.
+2024-10-26 18:21:07,540 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 18:21:34,860 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 18:22:07,560 - INFO - Successfully exported log data to log_data_2.csv.
+2024-10-26 18:22:34,930 - INFO - Successfully exported log data to log_data_3.csv.
+2024-10-26 18:23:07,622 - INFO - Successfully exported log data to log_data_4.csv.
+2024-10-26 18:39:04,679 - INFO - Logging initialized and set up successfully.
+2024-10-26 18:39:11,821 - INFO - pandas_df_003.csv imported successfully!
+2024-10-26 18:39:11,825 - INFO - There are 1 rows and 3 columns.
+2024-10-26 18:39:11,836 - INFO - Schema of the loaded dataset:
+2024-10-26 18:39:11,845 - INFO - +----+---------------+-------------+
+|    | Column Name   | Data Type   |
+|----+---------------+-------------|
+|  0 | id            | int64       |
+|  1 | chapter_title | object      |
+|  2 | quote         | object      |
++----+---------------+-------------+
+2024-10-26 18:39:11,851 - INFO - Unique values for column 'id': 1
+2024-10-26 18:39:11,856 - INFO - Unique values for column 'chapter_title': 1
+2024-10-26 18:39:11,860 - INFO - Unique values for column 'quote': 1
+2024-10-26 18:39:13,677 - ERROR - DataFrame is missing one or more required columns.
+2024-10-26 18:40:04,797 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 18:41:04,870 - INFO - Successfully exported log data to log_data_2.csv.
+2024-10-26 18:42:04,941 - INFO - Successfully exported log data to log_data_3.csv.
+2024-10-26 18:43:05,013 - INFO - Successfully exported log data to log_data_4.csv.
+2024-10-26 18:44:05,076 - INFO - Successfully exported log data to log_data_5.csv.
+2024-10-26 18:45:05,146 - INFO - Successfully exported log data to log_data_6.csv.
+2024-10-26 18:46:05,216 - INFO - Successfully exported log data to log_data_7.csv.
+2024-10-26 18:47:05,280 - INFO - Successfully exported log data to log_data_8.csv.
+2024-10-26 18:48:05,337 - INFO - Successfully exported log data to log_data_9.csv.
+2024-10-26 18:49:05,408 - INFO - Successfully exported log data to log_data_10.csv.
+2024-10-26 18:49:18,176 - INFO - Logging initialized and set up successfully.
+2024-10-26 18:50:05,479 - INFO - Successfully exported log data to log_data_11.csv.
+2024-10-26 18:50:18,250 - INFO - Successfully exported log data to log_data_12.csv.
+2024-10-26 18:50:26,744 - INFO - Logging initialized and set up successfully.
+2024-10-26 18:51:18,320 - INFO - Successfully exported log data to log_data_13.csv.
+2024-10-26 18:51:26,788 - INFO - Successfully exported log data to log_data_14.csv.
+2024-10-26 18:52:26,860 - INFO - Successfully exported log data to log_data_15.csv.
+2024-10-26 18:53:26,914 - INFO - Successfully exported log data to log_data_16.csv.
+2024-10-26 18:54:01,957 - INFO - Logging initialized and set up successfully.
+2024-10-26 18:54:01,961 - INFO - Viewing the log: (0, 3)
+2024-10-26 18:54:26,983 - INFO - Successfully exported log data to log_data_1.csv.
+2024-10-26 18:55:02,304 - ERROR - Error pushing data to PostgreSQL: (psycopg2.errors.UndefinedColumn) column "timestamp" of relation "website_log" does not exist
+LINE 1: INSERT INTO website_log (timestamp, level, message) VALUES (...
+                                 ^
+
+[SQL: INSERT INTO website_log (timestamp, level, message) VALUES (%(timestamp__0)s, %(level__0)s, %(message__0)s), (%(timestamp__1)s, %(level__1)s, %(message__1)s), (%(timestamp__2)s, %(level__2)s, %(message__2)s)]
+[parameters: {'level__0': 'INFO', 'message__0': 'Logging initialized and set up successfully.', 'timestamp__0': datetime.datetime(2024, 10, 26, 18, 54, 1, 960157), 'level__1': 'INFO', 'message__1': 'Viewing the log: (0, 3)', 'timestamp__1': datetime.datetime(2024, 10, 26, 18, 54, 1, 964583), 'level__2': 'INFO', 'message__2': 'Successfully exported log data to log_data_1.csv.', 'timestamp__2': datetime.datetime(2024, 10, 26, 18, 54, 26, 985937)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-10-26 18:56:02,448 - ERROR - Error pushing data to PostgreSQL: (psycopg2.errors.UndefinedColumn) column "timestamp" of relation "website_log" does not exist
+LINE 1: INSERT INTO website_log (timestamp, level, message) VALUES (...
+                                 ^
+
+[SQL: INSERT INTO website_log (timestamp, level, message) VALUES (%(timestamp)s, %(level)s, %(message)s)]
+[parameters: {'timestamp': datetime.datetime(2024, 10, 26, 18, 55, 2, 307503), 'level': 'ERROR', 'message': 'Error pushing data to PostgreSQL: (psycopg2.errors.UndefinedColumn) column "timestamp" of relation "website_log" does not exist\nLINE 1: INSERT INTO  ... (699 characters truncated) ... _data_1.csv.\', \'timestamp__2\': datetime.datetime(2024, 10, 26, 18, 54, 26, 985937)}]\n(Background on this error at: https://sqlalche.me/e/20/f405)'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-10-26 18:57:02,605 - ERROR - Error pushing data to PostgreSQL: (psycopg2.errors.UndefinedColumn) column "timestamp" of relation "website_log" does not exist
+LINE 1: INSERT INTO website_log (timestamp, level, message) VALUES (...
+                                 ^
+
+[SQL: INSERT INTO website_log (timestamp, level, message) VALUES (%(timestamp)s, %(level)s, %(message)s)]
+[parameters: {'timestamp': datetime.datetime(2024, 10, 26, 18, 56, 2, 451102), 'level': 'ERROR', 'message': 'Error pushing data to PostgreSQL: (psycopg2.errors.UndefinedColumn) column "timestamp" of relation "website_log" does not exist\nLINE 1: INSERT INTO  ... (575 characters truncated) ... 8, 54, 26, 985937)}]\\n(Background on this error at: https://sqlalche.me/e/20/f405)\'}]\n(Background on this error at: https://sqlalche.me/e/20/f405)'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)

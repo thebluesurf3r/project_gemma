@@ -1,0 +1,481 @@
+2024-10-27 13:41:36,608 - INFO - Logging initialized and set up successfully.
+2024-10-27 13:41:36,612 - INFO - Viewing the log: <function display_log_df at 0x7a608c0cb5b0>
+2024-10-27 13:41:51,600 - INFO - Logging initialized and set up successfully.
+2024-10-27 13:41:51,602 - INFO - Viewing the log: <function display_log_df at 0x7fb019fb7520>
+2024-10-27 13:41:51,721 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 13:41:51,725 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 13:41:51,756 - INFO - Schema of the loaded dataset:
+2024-10-27 13:41:51,766 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 13:41:51,772 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 13:41:51,782 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 13:41:51,787 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 13:41:53,546 - INFO - +----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph              | source_url                                                     | title      |
++====+======+=================+========================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:41:58,529 - INFO - +----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph              | source_url                                                     | title      |
++====+======+=================+========================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                      | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:42:23,355 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 13:42:23,358 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 13:42:23,387 - INFO - Schema of the loaded dataset:
+2024-10-27 13:42:23,394 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 13:42:23,400 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 13:42:23,406 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 13:42:23,414 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 13:42:52,980 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 13:42:52,984 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 13:42:53,009 - INFO - Schema of the loaded dataset:
+2024-10-27 13:42:53,015 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 13:42:53,020 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 13:42:53,027 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 13:42:53,035 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 13:42:55,179 - INFO - +----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph              | source_url                                                     | title      |
++====+======+=================+========================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                      | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:43:10,259 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 13:43:10,262 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 13:43:10,287 - INFO - Schema of the loaded dataset:
+2024-10-27 13:43:10,296 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 13:43:10,302 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 13:43:10,309 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 13:43:10,315 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 13:43:12,235 - INFO - +----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph              | source_url                                                     | title      |
++====+======+=================+========================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                      | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:43:43,269 - INFO - +----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph              | source_url                                                     | title      |
++====+======+=================+========================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                      | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:43:51,267 - INFO - +---------+-------------+
+|   index | paragraph   |
++=========+=============+
+|       0 | THE         |
++---------+-------------+
+|       1 | POWER       |
++---------+-------------+
+2024-10-27 13:48:37,821 - INFO - +---------+-------------+
+|   index | paragraph   |
++=========+=============+
+|       0 | THE         |
++---------+-------------+
+|       1 | POWER       |
++---------+-------------+
+|       2 | OF          |
++---------+-------------+
+|       3 | PREJUDICE   |
++---------+-------------+
+|       4 | I           |
++---------+-------------+
+2024-10-27 13:48:40,717 - INFO - +----+------+-----------------+---------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph                                                                                                     | source_url                                                     | title      |
++====+======+=================+===============================================================================================================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE                                                                                        | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+---------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                                                                                                             | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+---------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+------------+
+|  2 |   26 | CHAPTER I       | Themention of Cagliostro always suggests the                                                                  | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|    |      |                 | marvellous, the mysterious, the unknown. There is                                                             |                                                                |            |
+|    |      |                 | something cabalistic in the very sound of the name                                                            |                                                                |            |
+|    |      |                 | that, considering the occult phenomena performed by                                                           |                                                                |            |
+|    |      |                 | the strange personality who assumed it, is curiously                                                          |                                                                |            |
+|    |      |                 | appropriate. As anincognitoit is, perhaps, the most                                                           |                                                                |            |
+|    |      |                 | suitable ever invented. The name fits the man like                                                            |                                                                |            |
+|    |      |                 | a glove; and, recalling the mystery in which his                                                              |                                                                |            |
+|    |      |                 | career was wrapped, one involuntarily wonders if it has                                                       |                                                                |            |
+|    |      |                 | ever been cleared up. In a word, what was Cagliostro                                                          |                                                                |            |
+|    |      |                 | really? Charlatan, adventurer, swindler, whose impostures                                                     |                                                                |            |
+|    |      |                 | were finally exposed by the ever-memorable                                                                    |                                                                |            |
+|    |      |                 | Necklace Affair in which he was implicated? Or                                                                |                                                                |            |
+|    |      |                 | “friend of humanity,” as he claimed, whose benefactions                                                       |                                                                |            |
+|    |      |                 | excited the enmity of the envious, who took                                                                   |                                                                |            |
+|    |      |                 | advantage of his misfortunes to calumniate and ruin                                                           |                                                                |            |
+|    |      |                 | him? Knave, or martyr—which?                                                                                  |                                                                |            |
++----+------+-----------------+---------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+------------+
+|  3 |   27 | CHAPTER I       | This question is more easily answered by saying                                                               | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|    |      |                 | what Cagliostro wasnotthan what hewas. It has                                                                 |                                                                |            |
+|    |      |                 | been stated by competent judges—and all who have[Pg 2]studied the subject will agree with them—that there is, |                                                                |            |
+|    |      |                 | perhaps, no other equally celebrated figure in modern                                                         |                                                                |            |
+|    |      |                 | history whose character is so baffling to the biographer.                                                     |                                                                |            |
+|    |      |                 | Documents and books relating to him abound, but they                                                          |                                                                |            |
+|    |      |                 | possess little or no value. The most interesting are                                                          |                                                                |            |
+|    |      |                 | frequently the most unreliable. The fact that material                                                        |                                                                |            |
+|    |      |                 | so questionable should provide as many reasons for                                                            |                                                                |            |
+|    |      |                 | rejecting its evidence—which is, by the way, almost                                                           |                                                                |            |
+|    |      |                 | entirely hostile—as for accepting it, has induced                                                             |                                                                |            |
+|    |      |                 | theosophists, spiritualists, occultists, and all who are                                                      |                                                                |            |
+|    |      |                 | sympathetically drawn to the mysterious to become                                                             |                                                                |            |
+|    |      |                 | his apologists. By these amiable visionaries Cagliostro                                                       |                                                                |            |
+|    |      |                 | is regarded as one of the princes of occultism whose                                                          |                                                                |            |
+|    |      |                 | mystical touch has revealed the arcana of the spiritual                                                       |                                                                |            |
+|    |      |                 | world to the initiated, and illumined the path along                                                          |                                                                |            |
+|    |      |                 | which the speculative scientist proceeds on entering                                                          |                                                                |            |
+|    |      |                 | the labyrinth of the supernatural. To them the striking                                                       |                                                                |            |
+|    |      |                 | contrasts with which his agitated existence was                                                               |                                                                |            |
+|    |      |                 | chequered are unimpeachable witnesses in his favour,                                                          |                                                                |            |
+|    |      |                 | and they stubbornly refuse to accept the unsatisfactory                                                       |                                                                |            |
+|    |      |                 | and contemptuous explanation of his miracles given                                                            |                                                                |            |
+|    |      |                 | by those who regard him as an impostor.                                                                       |                                                                |            |
++----+------+-----------------+---------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+------------+
+|  4 |   28 | CHAPTER I       | Unfortunately, greater weight is attached to police                                                           | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|    |      |                 | reports than to theosophical eulogies; and something                                                          |                                                                |            |
+|    |      |                 | more substantial than the enthusiasm of the occultists                                                        |                                                                |            |
+|    |      |                 | is required to support their contention. However, those                                                       |                                                                |            |
+|    |      |                 | who take this extravagant (I had almost said ridiculous)                                                      |                                                                |            |
+|    |      |                 | view of Cagliostro may obtain what consolation they                                                           |                                                                |            |
+|    |      |                 | can from the fact—which cannot be stated too emphatically—that                                                |                                                                |            |
+|    |      |                 | though it is utterly impossible to grant                                                                      |                                                                |            |
+|    |      |                 | their prophet the halo they would accord him, it is                                                           |                                                                |            |
+|    |      |                 | equally impossible to accept the verdict of his enemies.                                                      |                                                                |            |
++----+------+-----------------+---------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:48:44,216 - INFO - +----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph                                                 | source_url                                                     | title      |
++====+======+=================+===========================================================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE                                    | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                                                         | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|  2 |   26 | CHAPTER I       | Themention of Cagliostro always suggests the              | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|    |      |                 | marvellous, the mysterious, the unknown. There is         |                                                                |            |
+|    |      |                 | something cabalistic in the very sound of the name        |                                                                |            |
+|    |      |                 | that, considering the occult phenomena performed by       |                                                                |            |
+|    |      |                 | the strange personality who assumed it, is curiously      |                                                                |            |
+|    |      |                 | appropriate. As anincognitoit is, perhaps, the most       |                                                                |            |
+|    |      |                 | suitable ever invented. The name fits the man like        |                                                                |            |
+|    |      |                 | a glove; and, recalling the mystery in which his          |                                                                |            |
+|    |      |                 | career was wrapped, one involuntarily wonders if it has   |                                                                |            |
+|    |      |                 | ever been cleared up. In a word, what was Cagliostro      |                                                                |            |
+|    |      |                 | really? Charlatan, adventurer, swindler, whose impostures |                                                                |            |
+|    |      |                 | were finally exposed by the ever-memorable                |                                                                |            |
+|    |      |                 | Necklace Affair in which he was implicated? Or            |                                                                |            |
+|    |      |                 | “friend of humanity,” as he claimed, whose benefactions   |                                                                |            |
+|    |      |                 | excited the enmity of the envious, who took               |                                                                |            |
+|    |      |                 | advantage of his misfortunes to calumniate and ruin       |                                                                |            |
+|    |      |                 | him? Knave, or martyr—which?                              |                                                                |            |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:49:25,827 - INFO - Logging initialized and set up successfully.
+2024-10-27 13:49:25,830 - INFO - Viewing the log: <function display_log_df at 0x723c64ba3520>
+2024-10-27 13:49:28,424 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 13:49:28,426 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 13:49:28,451 - INFO - Schema of the loaded dataset:
+2024-10-27 13:49:28,458 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 13:49:28,464 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 13:49:28,470 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 13:49:28,476 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 13:49:29,483 - INFO - +----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph                                                 | source_url                                                     | title      |
++====+======+=================+===========================================================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE                                    | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                                                         | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|  2 |   26 | CHAPTER I       | Themention of Cagliostro always suggests the              | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|    |      |                 | marvellous, the mysterious, the unknown. There is         |                                                                |            |
+|    |      |                 | something cabalistic in the very sound of the name        |                                                                |            |
+|    |      |                 | that, considering the occult phenomena performed by       |                                                                |            |
+|    |      |                 | the strange personality who assumed it, is curiously      |                                                                |            |
+|    |      |                 | appropriate. As anincognitoit is, perhaps, the most       |                                                                |            |
+|    |      |                 | suitable ever invented. The name fits the man like        |                                                                |            |
+|    |      |                 | a glove; and, recalling the mystery in which his          |                                                                |            |
+|    |      |                 | career was wrapped, one involuntarily wonders if it has   |                                                                |            |
+|    |      |                 | ever been cleared up. In a word, what was Cagliostro      |                                                                |            |
+|    |      |                 | really? Charlatan, adventurer, swindler, whose impostures |                                                                |            |
+|    |      |                 | were finally exposed by the ever-memorable                |                                                                |            |
+|    |      |                 | Necklace Affair in which he was implicated? Or            |                                                                |            |
+|    |      |                 | “friend of humanity,” as he claimed, whose benefactions   |                                                                |            |
+|    |      |                 | excited the enmity of the envious, who took               |                                                                |            |
+|    |      |                 | advantage of his misfortunes to calumniate and ruin       |                                                                |            |
+|    |      |                 | him? Knave, or martyr—which?                              |                                                                |            |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:49:32,598 - INFO - +---------+-------------+
+|   index | paragraph   |
++=========+=============+
+|       0 | THE         |
++---------+-------------+
+|       1 | POWER       |
++---------+-------------+
+|       2 | OF          |
++---------+-------------+
+|       3 | PREJUDICE   |
++---------+-------------+
+|       4 | I           |
++---------+-------------+
+2024-10-27 13:49:56,589 - INFO - +----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph                                                 | source_url                                                     | title      |
+|----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------|
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE                                    | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|  1 |   25 | CHAPTER I       | I                                                         | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|  2 |   26 | CHAPTER I       | Themention of Cagliostro always suggests the              | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|    |      |                 | marvellous, the mysterious, the unknown. There is         |                                                                |            |
+|    |      |                 | something cabalistic in the very sound of the name        |                                                                |            |
+|    |      |                 | that, considering the occult phenomena performed by       |                                                                |            |
+|    |      |                 | the strange personality who assumed it, is curiously      |                                                                |            |
+|    |      |                 | appropriate. As anincognitoit is, perhaps, the most       |                                                                |            |
+|    |      |                 | suitable ever invented. The name fits the man like        |                                                                |            |
+|    |      |                 | a glove; and, recalling the mystery in which his          |                                                                |            |
+|    |      |                 | career was wrapped, one involuntarily wonders if it has   |                                                                |            |
+|    |      |                 | ever been cleared up. In a word, what was Cagliostro      |                                                                |            |
+|    |      |                 | really? Charlatan, adventurer, swindler, whose impostures |                                                                |            |
+|    |      |                 | were finally exposed by the ever-memorable                |                                                                |            |
+|    |      |                 | Necklace Affair in which he was implicated? Or            |                                                                |            |
+|    |      |                 | “friend of humanity,” as he claimed, whose benefactions   |                                                                |            |
+|    |      |                 | excited the enmity of the envious, who took               |                                                                |            |
+|    |      |                 | advantage of his misfortunes to calumniate and ruin       |                                                                |            |
+|    |      |                 | him? Knave, or martyr—which?                              |                                                                |            |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+2024-10-27 13:50:00,995 - INFO - +----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|    |   id | chapter_title   | paragraph                                                 | source_url                                                     | title      |
++====+======+=================+===========================================================+================================================================+============+
+|  0 |   24 | CHAPTER I       | THE POWER OF PREJUDICE                                    | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|  1 |   25 | CHAPTER I       | I                                                         | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+|  2 |   26 | CHAPTER I       | Themention of Cagliostro always suggests the              | https://www.gutenberg.org/cache/epub/74618/pg74618-images.html | CAGLIOSTRO |
+|    |      |                 | marvellous, the mysterious, the unknown. There is         |                                                                |            |
+|    |      |                 | something cabalistic in the very sound of the name        |                                                                |            |
+|    |      |                 | that, considering the occult phenomena performed by       |                                                                |            |
+|    |      |                 | the strange personality who assumed it, is curiously      |                                                                |            |
+|    |      |                 | appropriate. As anincognitoit is, perhaps, the most       |                                                                |            |
+|    |      |                 | suitable ever invented. The name fits the man like        |                                                                |            |
+|    |      |                 | a glove; and, recalling the mystery in which his          |                                                                |            |
+|    |      |                 | career was wrapped, one involuntarily wonders if it has   |                                                                |            |
+|    |      |                 | ever been cleared up. In a word, what was Cagliostro      |                                                                |            |
+|    |      |                 | really? Charlatan, adventurer, swindler, whose impostures |                                                                |            |
+|    |      |                 | were finally exposed by the ever-memorable                |                                                                |            |
+|    |      |                 | Necklace Affair in which he was implicated? Or            |                                                                |            |
+|    |      |                 | “friend of humanity,” as he claimed, whose benefactions   |                                                                |            |
+|    |      |                 | excited the enmity of the envious, who took               |                                                                |            |
+|    |      |                 | advantage of his misfortunes to calumniate and ruin       |                                                                |            |
+|    |      |                 | him? Knave, or martyr—which?                              |                                                                |            |
++----+------+-----------------+-----------------------------------------------------------+----------------------------------------------------------------+------------+
+2024-10-27 15:43:49,287 - INFO - Logging initialized and set up successfully.
+2024-10-27 15:43:49,291 - INFO - Viewing the log: <function display_log_df at 0x7458fdfe6e60>
+2024-10-27 15:45:26,862 - INFO - Logging initialized and set up successfully.
+2024-10-27 15:45:26,866 - INFO - Viewing the log: <function display_log_df at 0x7f4b58be6b00>
+2024-10-27 15:46:32,837 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 15:46:32,841 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 15:46:32,867 - INFO - Schema of the loaded dataset:
+2024-10-27 15:46:32,875 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 15:46:32,882 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 15:46:32,888 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 15:46:32,896 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 15:46:32,971 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 15:46:32,973 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 15:46:33,004 - INFO - Schema of the loaded dataset:
+2024-10-27 15:46:33,011 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 15:46:33,021 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 15:46:33,028 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 15:46:33,035 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 15:46:33,047 - INFO - Column at index 1 converted to object dtype.
+2024-10-27 15:46:33,055 - INFO - Column at index 2 converted to object dtype.
+2024-10-27 15:46:33,061 - INFO - Column at index 3 converted to object dtype.
+2024-10-27 15:46:33,070 - INFO - Column at index 4 converted to object dtype.
+2024-10-27 15:46:33,074 - WARNING - Index 5 is out of bounds for DataFrame with 5 columns.
+2024-10-27 15:46:33,080 - WARNING - Index 6 is out of bounds for DataFrame with 5 columns.
+2024-10-27 15:46:38,058 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 15:46:38,061 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 15:46:38,090 - INFO - Schema of the loaded dataset:
+2024-10-27 15:46:38,098 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 15:46:38,104 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 15:46:38,113 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 15:46:38,119 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 15:46:38,212 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 15:46:38,215 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 15:46:38,242 - INFO - Schema of the loaded dataset:
+2024-10-27 15:46:38,248 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 15:46:38,254 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 15:46:38,262 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 15:46:38,269 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 15:46:38,279 - INFO - Column at index 1 converted to object dtype.
+2024-10-27 15:46:38,286 - INFO - Column at index 2 converted to object dtype.
+2024-10-27 15:46:38,293 - INFO - Column at index 3 converted to object dtype.
+2024-10-27 15:46:38,301 - INFO - Column at index 4 converted to object dtype.
+2024-10-27 15:46:38,304 - WARNING - Index 5 is out of bounds for DataFrame with 5 columns.
+2024-10-27 15:46:38,309 - WARNING - Index 6 is out of bounds for DataFrame with 5 columns.
+2024-10-27 15:46:49,603 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 15:46:49,606 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 15:46:49,632 - INFO - Schema of the loaded dataset:
+2024-10-27 15:46:49,639 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 15:46:49,646 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 15:46:49,655 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 15:46:49,663 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 15:46:49,748 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 15:46:49,752 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 15:46:49,779 - INFO - Schema of the loaded dataset:
+2024-10-27 15:46:49,787 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 15:46:49,792 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 15:46:49,800 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 15:46:49,807 - WARNING - Column 'content' has no unique values and will be dropped.
+2024-10-27 15:46:49,816 - INFO - Column at index 1 converted to object dtype.
+2024-10-27 15:46:49,823 - INFO - Column at index 2 converted to object dtype.
+2024-10-27 15:46:49,831 - INFO - Column at index 3 converted to object dtype.
+2024-10-27 15:46:49,838 - INFO - Column at index 4 converted to object dtype.
+2024-10-27 15:46:49,842 - WARNING - Index 5 is out of bounds for DataFrame with 5 columns.
+2024-10-27 15:46:49,845 - WARNING - Index 6 is out of bounds for DataFrame with 5 columns.
+2024-10-27 15:46:58,091 - INFO - cagliostro_gutenberg.csv imported successfully!
+2024-10-27 15:46:58,093 - INFO - There are 1775 rows and 8 columns.
+2024-10-27 15:46:58,116 - INFO - Schema of the loaded dataset:
+2024-10-27 15:46:58,122 - INFO - 
++----+---------------+-------------+------------+
+|    | Column Name   | Data Type   |   n_unique |
+|----+---------------+-------------+------------|
+|  0 | id            | int64       |       1775 |
+|  1 | chapter_title | object      |          1 |
+|  2 | paragraph     | object      |        908 |
+|  3 | quote         | float64     |          0 |
+|  4 | source_url    | object      |          1 |
+|  5 | created_at    | float64     |          0 |
+|  6 | title         | object      |          1 |
+|  7 | content       | float64     |          0 |
++----+---------------+-------------+------------+
+2024-10-27 15:46:58,129 - WARNING - Column 'quote' has no unique values and will be dropped.
+2024-10-27 15:46:58,136 - WARNING - Column 'created_at' has no unique values and will be dropped.
+2024-10-27 15:46:58,143 - WARNING - Column 'content' has no unique values and will be dropped.
